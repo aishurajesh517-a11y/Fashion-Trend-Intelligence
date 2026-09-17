@@ -121,6 +121,7 @@ SUMX(
     'Fashion Sales'[Units Sold] *
     'Fashion Sales'[Discount %] / 100
 )
+```
 
 Dashboard Features
 
